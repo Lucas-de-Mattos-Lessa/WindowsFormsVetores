@@ -54,7 +54,7 @@
             this.btnDelete.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.btnDelete.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnDelete.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.btnDelete.Location = new System.Drawing.Point(236, 232);
+            this.btnDelete.Location = new System.Drawing.Point(236, 282);
             this.btnDelete.Name = "btnDelete";
             this.btnDelete.Size = new System.Drawing.Size(100, 45);
             this.btnDelete.TabIndex = 1;
@@ -74,7 +74,7 @@
             // 
             // tbxFrutas
             // 
-            this.tbxFrutas.Location = new System.Drawing.Point(74, 121);
+            this.tbxFrutas.Location = new System.Drawing.Point(63, 144);
             this.tbxFrutas.Name = "tbxFrutas";
             this.tbxFrutas.Size = new System.Drawing.Size(137, 20);
             this.tbxFrutas.TabIndex = 6;
@@ -82,7 +82,7 @@
             // lbxFrutas
             // 
             this.lbxFrutas.FormattingEnabled = true;
-            this.lbxFrutas.Location = new System.Drawing.Point(83, 182);
+            this.lbxFrutas.Location = new System.Drawing.Point(74, 232);
             this.lbxFrutas.Name = "lbxFrutas";
             this.lbxFrutas.Size = new System.Drawing.Size(120, 95);
             this.lbxFrutas.TabIndex = 7;
@@ -98,7 +98,7 @@
             this.Controls.Add(this.btnDelete);
             this.Controls.Add(this.btnAdd);
             this.Name = "FormFrutas";
-            this.Text = "Form1";
+            this.Text = "Formulário";
             this.ResumeLayout(false);
             this.PerformLayout();
 

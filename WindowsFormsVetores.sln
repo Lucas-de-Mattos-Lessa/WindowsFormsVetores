@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34316.72
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsVetores", "WindowsFormsVetores\WindowsFormsVetores.csproj", "{04E72686-177B-447A-A1C6-DC03DA175AC2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsFrutas", "WindowsFormsVetores\WindowsFormsFrutas.csproj", "{04E72686-177B-447A-A1C6-DC03DA175AC2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProjectFrutas", "TestProjectFrutas\TestProjectFrutas.csproj", "{952B7A0D-774C-4A9A-85A0-EC4125F27DD9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestProjectFrutas", "TestProjectFrutas\TestProjectFrutas.csproj", "{952B7A0D-774C-4A9A-85A0-EC4125F27DD9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibraryFrutas", "ClassLibraryFrutas\ClassLibraryFrutas.csproj", "{03956BAE-B3FB-4EE8-83F4-453AC66ADE2A}"
 EndProject
